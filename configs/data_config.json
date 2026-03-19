@@ -1,0 +1,6 @@
+{
+  "raw_data_root": "/content/drive/MyDrive/tutors_sentiment_project/01_data_raw",
+  "interim_data_root": "/content/drive/MyDrive/tutors_sentiment_project/02_data_interim",
+  "labeling_root": "/content/drive/MyDrive/tutors_sentiment_project/03_labeling",
+  "ready_data_root": "/content/drive/MyDrive/tutors_sentiment_project/04_datasets_ready"
+}

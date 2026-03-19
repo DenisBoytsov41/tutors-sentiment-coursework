@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Virtual env
+.venv/
+venv/
+
+# Local configs / secrets
+.env
+*.env
+token.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Artifacts not for git
+*.pt
+*.bin
+*.ckpt
+*.safetensors
+*.h5
+*.parquet
+*.zip
+*.tar.gz
+
+# Large experiment outputs
+outputs/
+artifacts/
+checkpoints/
+
+# Local data cache
+.cache/
