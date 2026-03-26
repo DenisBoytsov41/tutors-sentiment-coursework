@@ -1,0 +1,13 @@
+﻿project_root: /content/drive/MyDrive/tutors_sentiment_project
+seed: 42
+
+dirs:
+  admin: 00_admin
+  raw: 01_data_raw
+  interim: 02_data_interim
+  labeling: 03_labeling
+  ready: 04_datasets_ready
+  models: 05_models
+  reports: 06_reports
+  exports: 07_exports
+  archive: 08_archive

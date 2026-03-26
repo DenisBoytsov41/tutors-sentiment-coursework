@@ -1,0 +1,9 @@
+﻿model_name: blanchefort/rubert-base-cased-sentiment-rusentiment
+num_labels: 3
+max_length: 256
+batch_size: 16
+learning_rate: 2.0e-5
+num_train_epochs: 3
+weight_decay: 0.01
+random_state: 42
+metric_name: weighted_f1

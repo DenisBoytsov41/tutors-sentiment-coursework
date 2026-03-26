@@ -1,4 +1,0 @@
-{
-  "base_model": "blanchefort/rubert-base-cased-sentiment-rusentiment",
-  "num_labels": 3
-}
